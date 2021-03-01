@@ -2,7 +2,7 @@
 Capella can be downloaded from [here](https://www.eclipse.org/capella/download.html).
 
 ## Installation
-Follow the instructions to install Capella given [here] (https://github.com/eclipse/capella/blob/master/doc/plugins/org.polarsys.capella.ui.doc/html/Installation%20Guide/How%20to%20install%20Capella%20and%20Addons.mediawiki#table-of-contents).
+Follow the instructions to install Capella given [here](https://github.com/eclipse/capella/blob/master/doc/plugins/org.polarsys.capella.ui.doc/html/Installation%20Guide/How%20to%20install%20Capella%20and%20Addons.mediawiki#table-of-contents).
 
 
 ## Staring Capella 
