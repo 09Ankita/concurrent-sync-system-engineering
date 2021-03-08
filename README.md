@@ -5,7 +5,7 @@ Capella can be downloaded from [here](https://www.eclipse.org/capella/download.h
 Follow the instructions to install Capella given [here](https://github.com/eclipse/capella/blob/master/doc/plugins/org.polarsys.capella.ui.doc/html/Installation%20Guide/How%20to%20install%20Capella%20and%20Addons.mediawiki#table-of-contents).
 
 
-## Staring Capella 
+## Starting Capella 
 1. When launching Capella, the Eclipse workbench is started. A splash screen is displayed, showing the current version of the tool. 
 2. Select a workspace.
 3. When new workspace is launched, a Welcome screen is displayed. From there, one can
